@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBlueSignUpLogin">#1E7DE2</color>
+    <color name="colorBlueAppNameCard">#5C12A5</color>
+    <color name="colorAppNameCardText">#10ab93</color>
+    <color name="colorHomeBackground">#F2E6E6</color>
+    <color name="colorRecommendationBackground">#eae1de</color>
+
+    <color name="white">#ffffff</color>
+    <color name="home_add">#46d424</color>
+    <color name="backgroundRecommendation">#bcdebb</color>
+
+    <color name="duskYellow">#ffc922</color>
+    <color name="lightGrey">#D3D3D3</color>
+</resources>

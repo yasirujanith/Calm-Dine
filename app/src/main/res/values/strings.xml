@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CalmDine</string>
+    <string name="action_settings">Settings</string>
+    <string name="calm_dine"><b><big><big>C</big></big></b>ALM <b><big><big>D</big></big></b>INE</string>
+    <string name="calm_dine_02"><b><big>C</big></b>ALM <b><big>D</big></b>INE</string>
+    <string name="sub_heading">For a More Relaxed Dining Experience</string>
+
+    <string name="login">Login</string>
+
+    <string name="noAccount">Don\'t have an account?</string>
+    <string name="signUp">Sign Up</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="map_description">Restaurants Around You</string>
+
+    <string name="description_noise">Desired Noise Intensity Level</string>
+    <string name="description_light">Desired Light Intensity Level</string>
+
+    <string name="description_noise_recom">Noise Intensity</string>
+    <string name="description_light_recom">Light Intensity</string>
+
+    <string name="recommendation_header">Recommended Restaurants</string>
+
+    <string-array name="noise_levels">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+
+    <string-array name="light_levels">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+
+    <string name="recommend">Recommend</string>
+    <string name="noise">Noise :</string>
+    <string name="light">Light :</string>
+    <string name="current_rating">Current Rating :</string>
+
+</resources>

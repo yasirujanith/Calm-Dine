@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265702092094",
+    "firebase_url": "https://calmdine.firebaseio.com",
+    "project_id": "calmdine",
+    "storage_bucket": "calmdine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265702092094:android:045b233d2fe1c4348f906f",
+        "android_client_info": {
+          "package_name": "com.example.calmdine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265702092094-dglo7aggtbdj33v9khu6p7ee0g40hou5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calmdine",
+            "certificate_hash": "37c7644c5717bc19eaaa7282eab789206c618ee7"
+          }
+        },
+        {
+          "client_id": "265702092094-hh4addskve4adru9j4men0qg7fvugmem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfJ7_P1C5ncJeXrg_lIclVD2gQpGVJHdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265702092094-hh4addskve4adru9j4men0qg7fvugmem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
